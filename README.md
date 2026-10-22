@@ -121,7 +121,7 @@ Future Improvements
   their results.
 - Add a reusable prediction script or a small interactive interface.
 Author
-Abhishek Singh
+Abhishek babu
 If you publish this project, include the dataset source and license
 information where applicable, and verify that the notebook runs from a
 clean environment before sharing it.
